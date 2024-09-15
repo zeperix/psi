@@ -19,7 +19,7 @@ termux-setup-storage && apt upgrade && pkg install git -y && git clone https://g
 > Các cài đặt khác để nguyên không sửa đổi
 
 ### Bật SockDroid (Công tắc ở góc trên bên phải), nếu hiện yêu cầu gì hãy chấp nhận hết
-### Vào lại termux và gõ lệnh ```tun```
+### Vào lại termux và gõ lệnh ```tun``` (Nếu báo lỗi hãy gõ lại đến khi được)
 ### Chờ 10 giây là đã kết nối thành công, có thể sử dụng mạng
 
 
