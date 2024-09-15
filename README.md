@@ -1,8 +1,8 @@
 # Hướng dẫn cài đặt cho ANDROID
 
-## Tải xuống termux rồi ấn Enter
+## Tải xuống termux 
 * [**Download Termux**](https://github.com/overkillzero/psi/raw/main/Termux.apk)
-### Copy lệnh sau và dán vào termux
+### Copy lệnh sau và dán vào termux rồi ấn Enter
 ```bash
 termux-setup-storage && apt upgrade && pkg install git -y && git clone https://github.com/overkillzero/psi && clear && cd psi && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/psi"' >> $HOME/.bashrc && source $HOME/.bashrc
 ```
