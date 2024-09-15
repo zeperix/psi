@@ -1,6 +1,6 @@
 # Hướng dẫn cài đặt cho ANDROID
 
-## Tải xuống termux
+## Tải xuống termux rồi ấn Enter
 * [**Download Termux**](https://github.com/overkillzero/psi/raw/main/Termux.apk)
 ### Copy lệnh sau và dán vào termux
 ```bash
