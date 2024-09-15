@@ -1,13 +1,13 @@
 # Hướng dẫn cài đặt
 
 ## Tải xuống termux
-* [**Download Termux**](https://github.com/overkillzero/psi/releases/download/v1.0.1/Termux.apk)
+* [**Download Termux**](https://github.com/overkillzero/psi/raw/main/Termux.apk)
 ### Copy lệnh sau và dán vào termux
 ```bash
 termux-setup-storage && apt upgrade && pkg install git -y && git clone https://github.com/overkillzero/psi && clear && cd psi && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/psi"' >> $HOME/.bashrc && source $HOME/.bashrc
 ```
 ### Tải xuống SockDroid
-* [**Download SocksDroid**](https://github.com/overkillzero/psi/releases/download/v1.0.1/SocksDroid.apk)
+* [**Download SocksDroid**](https://github.com/overkillzero/psi/raw/main/SocksDroid.apk)
 ### Cấu hình SockDroid như sau:
 - Server IP: ```127.0.0.1```
 - Server Port: ```1080```
