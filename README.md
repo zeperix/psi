@@ -1,4 +1,4 @@
-# Hướng dẫn cài đặt
+# Hướng dẫn cài đặt cho ANDROID
 
 ## Tải xuống termux
 * [**Download Termux**](https://github.com/overkillzero/psi/raw/main/Termux.apk)
