@@ -1,5 +1,5 @@
 # Hướng dẫn cài đặt cho ANDROID
-
+> Make By ZeronX DEV, https://ht4gvpn.com
 ## Tải xuống termux 
 * [**Download Termux**](https://github.com/overkillzero/psi/raw/main/Termux.apk)
 ### Copy lệnh sau và dán vào termux rồi ấn Enter
