@@ -4,7 +4,7 @@
 * [**Download Termux**](https://github.com/overkillzero/psi/raw/main/Termux.apk)
 ### Copy lệnh sau và dán vào termux rồi ấn Enter
 ```bash
-termux-setup-storage && apt upgrade && pkg install git -y && git clone https://github.com/overkillzero/psi && clear && cd psi && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/psi"' >> $HOME/.bashrc && source $HOME/.bashrc
+termux-setup-storage && apt upgrade && pkg install git -y && git clone https://github.com/overkillzero/psi && clear && cd psi && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/psi"' >> $HOME/.bashrc && echo 'psi' >> $HOME/.bashrc && source $HOME/.bashrc
 ```
 ### Tải xuống SockDroid
 * [**Download SocksDroid**](https://github.com/overkillzero/psi/raw/main/SocksDroid.apk)
